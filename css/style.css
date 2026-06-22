@@ -265,7 +265,7 @@ button, input, textarea { font: inherit; }
 .two-column { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(320px, .75fr); gap: 52px; align-items: center; }
 .section-copy h2,
 .section-heading h2,
-.cta-box h2 { font-size: clamp(2.4rem, 5vw, 4.6rem); color: var(--green-900); }
+.cta-box h2 { font-size: clamp(2.4rem, 5vw, 3.8rem); color: var(--green-900); }
 .section-copy p,
 .section-heading p,
 .cta-box p { color: var(--stone-600); font-size: 1.05rem; }
